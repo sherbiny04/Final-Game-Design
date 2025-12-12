@@ -97,3 +97,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Local-only demo scene that exceeds GitHub's 100MB file cap
+Final Game Development/Assets/Nicrom/3D_HybridArt/Nature/Demo/Scenes/NHP_ThreeBiomes.unity
