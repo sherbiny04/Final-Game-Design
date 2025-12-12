@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: ed66631be34ddb54ea228fbf23c011d5
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 181109
-  packageName: Nature - Hybrid Pack
-  packageVersion: 1.1.4
-  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Assets/Materials/Flowers/NHP_FlowerWithoutStem_A2_H50cm_a.mat
-  uploadId: 763345
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6db6d5574f61d87f81e3854a8ca58cd9bd633f516897a7e9bf3998a305f6032
+size 432

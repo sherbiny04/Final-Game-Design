@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 1d924399aa96d4378b9c507b7669a4f4
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 146014
-  packageName: AllSky Free - 10 Sky / Skybox Set
-  packageVersion: 1.1.0
-  assetPath: Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_MountainGlow.mat
-  uploadId: 679123
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc3339eb5224c43de2452243391d486ab14b7b991fe73ed5d205f775a6c0b06a
+size 429

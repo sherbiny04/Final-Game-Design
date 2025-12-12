@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 3f6657538fc1b5b40a92930900607b01
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Items/Crockery/EA_Items_House_bowl_wooden_powder_02a_PRE.prefab
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:e54634bce5743a3fe296abf9a057825da02f930afd430cf59439a3cc043dfac5
+size 445

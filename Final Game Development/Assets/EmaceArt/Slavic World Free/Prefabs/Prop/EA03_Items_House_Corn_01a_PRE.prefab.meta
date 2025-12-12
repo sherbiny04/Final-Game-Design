@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: a0d15454e8d6fe747b16d15d27d52814
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Prop/EA03_Items_House_Corn_01a_PRE.prefab
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:7340bf581264d2673265422f04141b656618979276481be3a7052fcd70c40856
+size 423

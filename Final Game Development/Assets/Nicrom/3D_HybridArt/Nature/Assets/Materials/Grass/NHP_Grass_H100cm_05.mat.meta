@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: c6fefd104edfce84aaa1eec3fb78f801
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 181109
-  packageName: Nature - Hybrid Pack
-  packageVersion: 1.1.4
-  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Assets/Materials/Grass/NHP_Grass_H100cm_05.mat
-  uploadId: 763345
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6a9e1ce892b00bc3dd8c53e02b4d7c7aa8eaf415bbefda7da3276130845f6bf
+size 417

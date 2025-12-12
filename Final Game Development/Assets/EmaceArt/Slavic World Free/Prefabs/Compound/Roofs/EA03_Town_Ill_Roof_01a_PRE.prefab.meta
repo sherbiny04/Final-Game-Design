@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 6a658c6e83d0941459dd15ac7fddc99e
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Compound/Roofs/EA03_Town_Ill_Roof_01a_PRE.prefab
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb60c665a246a3e411ecd3c3349f8372bf835ad3255cfaa53ea4d10e7b7790f4
+size 430

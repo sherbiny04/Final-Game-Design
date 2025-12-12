@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 3a6db933fef1d4c759bf21220420505f
-timeCreated: 1551734549
-licenseType: Store
-NativeFormatImporter:
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 146014
-  packageName: AllSky Free - 10 Sky / Skybox Set
-  packageVersion: 1.1.0
-  assetPath: Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky Equirect.mat
-  uploadId: 679123
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f3b9cdbbe659aeacf7025d05a777526f674d5ee41e976959d0995818b74de88
+size 445

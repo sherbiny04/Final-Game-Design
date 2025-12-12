@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: e4d84dee4ddba6443b54d1793d7d6f35
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 181109
-  packageName: Nature - Hybrid Pack
-  packageVersion: 1.1.4
-  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Prefabs/Props/Rocks/Monolith/NHP_Rock_Monolith_A1_01.prefab
-  uploadId: 763345
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b50951651ee016141c1f230d0ec3887387526240b54f29a8c0de93e4ed9b9c0
+size 396

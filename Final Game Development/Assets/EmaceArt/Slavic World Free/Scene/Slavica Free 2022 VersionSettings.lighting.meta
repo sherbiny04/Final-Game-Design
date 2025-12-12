@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 62b125c79350c954aac8efd89bee5495
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 4890085278179872738
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Scene/Slavica Free 2022 VersionSettings.lighting
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:2134b4412491363adb00cd7fad6f185634bbce491f582ca606e91d08d416c18c
+size 468

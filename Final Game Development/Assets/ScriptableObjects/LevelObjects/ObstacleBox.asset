@@ -1,18 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f4bfeb3482eb484fb44843a58635b24, type: 3}
-  m_Name: ObstacleBox
-  m_EditorClassIdentifier: 
-  Prefab: {fileID: 4971154675994701390, guid: 2515dd681ae510b458994f1da35cdcaa, type: 3}
-  Kind: 1
-  ObjectName: ObstacleBox
-  ObjectSpawnBlockLenght: 3
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0432baa201a13df75fa7882ba5bb3f208daedd129048468f9a7ad1eec5b6933
+size 553

@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 73324b55f67f54c7bbf43204788b8bbe
-NativeFormatImporter:
-  mainObjectFileID: -1
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 146014
-  packageName: AllSky Free - 10 Sky / Skybox Set
-  packageVersion: 1.1.0
-  assetPath: Assets/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing Equirect.mat
-  uploadId: 679123
+version https://git-lfs.github.com/spec/v1
+oid sha256:700b59f97e3820f14611466a086900f670ac294fd3886e2294372dd1c9dda47d
+size 394

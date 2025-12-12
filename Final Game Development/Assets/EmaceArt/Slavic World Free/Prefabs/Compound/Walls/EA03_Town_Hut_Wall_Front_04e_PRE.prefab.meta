@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 80b2778c4fb21f945b01de2cc7f33850
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Compound/Walls/EA03_Town_Hut_Wall_Front_04e_PRE.prefab
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4d96a803f5296dd37e03b7f47f1105cfac746e12af198074b85e861891fc52a
+size 472

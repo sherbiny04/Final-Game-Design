@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 2593a025ac8429948ab3f352f4c727ec
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Prop/Village/EA03_Prop_Village_Ladder_02a_PRE.prefab
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:83d740b972982cfc4c3dd61fe5673d70db7eb4a9ffc40d02cbea23375ab7912d
+size 434

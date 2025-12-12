@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: b92d2bfd19a172d4db4af5c57cbac44c
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Compound/Roofs/EA03_Village_Hut_Roof_Cut_01d_PRE.prefab
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:b21f1b70e85131fdc78a7c7dbc7020175216dc8eb9aa3b4e015f7fa196f9278c
+size 437

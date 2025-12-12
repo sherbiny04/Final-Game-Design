@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: cdbb40e11399e4a17882ada20a1b896a
-timeCreated: 1481203198
-licenseType: Store
-NativeFormatImporter:
-  mainObjectFileID: -1
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 146014
-  packageName: AllSky Free - 10 Sky / Skybox Set
-  packageVersion: 1.1.0
-  assetPath: Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset Equirect.mat
-  uploadId: 679123
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f24db41845041bd18cf6d12ffab23da6c9c15763bc7978502794839910124b0
+size 428

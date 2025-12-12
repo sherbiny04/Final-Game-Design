@@ -1,18 +1,3 @@
-fileFormatVersion: 2
-guid: 2af8f356808163e4197362c94d314524
-MonoImporter:
-  externalObjects: {}
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 181109
-  packageName: Nature - Hybrid Pack
-  packageVersion: 1.1.4
-  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Assets/Scripts/Editor/MaterialInspectors/LowPolyTreeWithPatterns_MaterialInspector.cs
-  uploadId: 763345
+version https://git-lfs.github.com/spec/v1
+oid sha256:137080b9f99066c0432b3d4be29f11ab39fec897bef1f8a4a3f843a4387a2e5c
+size 511

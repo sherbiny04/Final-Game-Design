@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 4df4404ab98a710418365b053d8d6c55
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Prop/Carpentry/EA03_Prop_Tool_Stump_02a_PRE.prefab
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:71e8ad4095d7308e31f752b748bdd0be0f28d97f025e87dd0b12dc0436d30c91
+size 432

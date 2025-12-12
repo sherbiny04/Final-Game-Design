@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 1d6ec208d717eb64b9b40a229d2e2fd1
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/EA_Room_Int_LivingRoom_Comp_7x7_01c_PRE.prefab
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:acee893ab33b708ddd3d844f718bc5a72006fc6a6af96d592eacfa9b70ebaf9e
+size 428

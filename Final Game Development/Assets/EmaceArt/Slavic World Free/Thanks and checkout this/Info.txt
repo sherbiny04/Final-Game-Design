@@ -1,6 +1,3 @@
-Thanks for download!
-This pack of assets belongs to my other huge pack, which I encourage to buy! 
-
-https://assetstore.unity.com/packages/3d/environments/fantasy/slavic-medieval-village-town-interior-and-exterior-pack-environm-137794
-
-If you have any questions, or request of additional models, fell free to email me at EMACEART@GMAIL.COM
+version https://git-lfs.github.com/spec/v1
+oid sha256:1034fd7e835a828acf11ed681cffd944a7e6f8cd612a1d3d79eb86464b1ad648
+size 343

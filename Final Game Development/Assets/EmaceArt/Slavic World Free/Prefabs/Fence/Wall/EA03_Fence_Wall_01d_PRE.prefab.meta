@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 162e4f25bf762e74eaa8fef8d72a02a9
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Fence/Wall/EA03_Fence_Wall_01d_PRE.prefab
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c8804cbe0058ed27eb89f7db26ab023c837b6e9d36071247197ad7337bc4dd9
+size 423

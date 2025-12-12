@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 55c04ce684cb542debc357409498bc4e
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 146014
-  packageName: AllSky Free - 10 Sky / Skybox Set
-  packageVersion: 1.1.0
-  assetPath: Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AdditiveSprite.mat
-  uploadId: 679123
+version https://git-lfs.github.com/spec/v1
+oid sha256:922079e24fe0edfb6162a0613e3f0780b1b122d4d79b84a0a922d660716aa093
+size 407

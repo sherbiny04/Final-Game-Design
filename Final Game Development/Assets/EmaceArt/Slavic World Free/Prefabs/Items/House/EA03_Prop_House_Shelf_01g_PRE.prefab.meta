@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: c5f50c13bb9173843b834b4ce5b30cb2
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Items/House/EA03_Prop_House_Shelf_01g_PRE.prefab
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccd5922a88d5a3efa0d1afbf767e20260e4623faec26bd61da86dddf9fce7d33
+size 466

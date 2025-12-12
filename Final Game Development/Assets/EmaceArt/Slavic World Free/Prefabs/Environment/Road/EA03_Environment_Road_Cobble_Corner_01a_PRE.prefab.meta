@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: c4ed780c30c7f004b812e991fe6d7d48
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Environment/Road/EA03_Environment_Road_Cobble_Corner_01a_PRE.prefab
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:12b305d51fe1e7f7be542bf6f3aae31e19b2707a51cee4fc2ffaf40b4a444ba2
+size 485

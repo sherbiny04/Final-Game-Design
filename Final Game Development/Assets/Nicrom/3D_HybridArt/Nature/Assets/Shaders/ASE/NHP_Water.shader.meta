@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 487d0d933c54d184f87c38ad4e18acd8
-ShaderImporter:
-  externalObjects: {}
-  defaultTextures: []
-  nonModifiableTextures: []
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 181109
-  packageName: Nature - Hybrid Pack
-  packageVersion: 1.1.4
-  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Assets/Shaders/ASE/NHP_Water.shader
-  uploadId: 763345
+version https://git-lfs.github.com/spec/v1
+oid sha256:46e30ab9b82dc4314e7089bf0ff8ffaa9e709746a6ede35a275a3decf8adecfe
+size 422

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 953d3192356053f479f39aeb9eb960b8
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/SourceFiles/OtherMaterials/EA03_LPNP-Slavika_Grass.mat
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:837ceda61fd165c79de591a69757f0e485fc6adc5d2979054c0cd8502e475392
+size 462

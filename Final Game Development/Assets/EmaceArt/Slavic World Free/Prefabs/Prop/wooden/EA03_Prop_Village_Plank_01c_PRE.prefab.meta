@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: aec78062b434b6343a8eed8aca8dfded
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Prop/wooden/EA03_Prop_Village_Plank_01c_PRE.prefab
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7fbc6f2dfa4025aae3a0cd04cb9944cf511193736913ebabb66592bed3cfc15
+size 432

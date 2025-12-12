@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 0b29808cfe8e0446eb1cdc1105c409b2
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 4890085278179872738
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 146014
-  packageName: AllSky Free - 10 Sky / Skybox Set
-  packageVersion: 1.1.0
-  assetPath: Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunsetSettings.lighting
-  uploadId: 679123
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f316bcc326c2caa6ce1874d7496fa2f97cbf1f19ac83ecd64380d372413f506
+size 428

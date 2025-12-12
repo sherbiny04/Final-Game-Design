@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 14e2bbe85f65b044cbcea9eec5f139b7
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 181109
-  packageName: Nature - Hybrid Pack
-  packageVersion: 1.1.4
-  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Prefabs/Plants/NHP_LilyPad_LP_A1_03.prefab
-  uploadId: 763345
+version https://git-lfs.github.com/spec/v1
+oid sha256:3728a57e1c36f593c7322cec218e8ee410cde409348bed4468dab2b04b723004
+size 379

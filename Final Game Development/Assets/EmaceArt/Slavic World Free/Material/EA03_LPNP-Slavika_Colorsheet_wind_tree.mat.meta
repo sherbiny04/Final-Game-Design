@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 832aba01891ef884caabb15bdd767a8d
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Material/EA03_LPNP-Slavika_Colorsheet_wind_tree.mat
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:16fbc26b15ff76049a9a7f0e8c9950199b0da869aef115824c37743d2cc34fa7
+size 453

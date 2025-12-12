@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: c92a12fb577ec0a48abf55cfc24bcecd
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Prop/Container/EA03_Prop_Container_Conr_01a_PRE.prefab
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e6140f7dd2300659b54c6b428ecae874c7bbcf6acbe03cdf5e8d6625c0d8679
+size 472

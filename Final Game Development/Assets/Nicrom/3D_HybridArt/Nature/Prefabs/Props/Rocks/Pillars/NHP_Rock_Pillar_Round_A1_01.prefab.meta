@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: ee323e090a005aa47818d01920c52021
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 181109
-  packageName: Nature - Hybrid Pack
-  packageVersion: 1.1.4
-  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Prefabs/Props/Rocks/Pillars/NHP_Rock_Pillar_Round_A1_01.prefab
-  uploadId: 763345
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc0116fbf82ec77c66ef89553f8891687946a0ebba792750748dbfc3f6c55a39
+size 399

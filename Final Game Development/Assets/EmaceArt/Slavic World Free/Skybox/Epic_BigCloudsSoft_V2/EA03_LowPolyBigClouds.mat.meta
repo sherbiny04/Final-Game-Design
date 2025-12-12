@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 5d0ef7cbda2ac05459b326d9ebbcc118
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Skybox/Epic_BigCloudsSoft_V2/EA03_LowPolyBigClouds.mat
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:b354fafb55e52cd8d700d7d2cd8d7a9b986d45a2c94d79780c7967087f5cea84
+size 456

@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 4e29b823fbe06754b934c9a86c91ac08
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 181109
-  packageName: Nature - Hybrid Pack
-  packageVersion: 1.1.4
-  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Prefabs/Props/Rocks/Walls/NHP_Rock_Wall_A1_03.prefab
-  uploadId: 763345
+version https://git-lfs.github.com/spec/v1
+oid sha256:91ab9cf77f2823a3ed811145d9521faecbb1eba7f59b59ecc418b4266dbfb33e
+size 389

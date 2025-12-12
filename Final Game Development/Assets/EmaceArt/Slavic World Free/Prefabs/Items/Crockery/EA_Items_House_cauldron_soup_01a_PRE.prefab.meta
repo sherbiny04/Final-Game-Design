@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: f4b937c578a566a438aaa67e42a66e76
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Items/Crockery/EA_Items_House_cauldron_soup_01a_PRE.prefab
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5ecb8604feca70ea0f8d4181eb3a8c9f5ff5ce2faa71754a20fc2c5555325dc
+size 440

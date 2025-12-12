@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 70191aed8e7b78e48afa7a17992dffff
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 167010
-  packageName: FREE Slavic Medieval Environment Town Interior and exterior
-  packageVersion: 1.6
-  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Environment/Sand/EA03_Env_Sand_Flat_01b_PRE.prefab
-  uploadId: 832988
+version https://git-lfs.github.com/spec/v1
+oid sha256:be34b311cfb3e0fbe93cbe047dc681f5522f1f77f85040a7a68ad7af294512aa
+size 432

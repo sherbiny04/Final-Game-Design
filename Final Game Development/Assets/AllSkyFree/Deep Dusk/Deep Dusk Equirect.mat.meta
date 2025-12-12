@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: c82a334cf5a5e47978749c210cee72a7
-timeCreated: 1544379895
-licenseType: Store
-NativeFormatImporter:
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 146014
-  packageName: AllSky Free - 10 Sky / Skybox Set
-  packageVersion: 1.1.0
-  assetPath: Assets/AllSkyFree/Deep Dusk/Deep Dusk Equirect.mat
-  uploadId: 679123
+version https://git-lfs.github.com/spec/v1
+oid sha256:555e750bb1ba5b8ae63eb1ca5ecb8b57669c21339e6de88ac2d28caaf288a656
+size 421

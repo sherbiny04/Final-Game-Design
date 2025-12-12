@@ -1,18 +1,3 @@
-fileFormatVersion: 2
-guid: 040bbb5248eb184419f824e8e588c3c3
-MonoImporter:
-  externalObjects: {}
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 181109
-  packageName: Nature - Hybrid Pack
-  packageVersion: 1.1.4
-  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Demo/Scripts/NHP_GlobalWindDirection.cs
-  uploadId: 763345
+version https://git-lfs.github.com/spec/v1
+oid sha256:28dbd83d017a4be3386e265fdb708d5cc7044eab9614fb329080ff9e29ce9763
+size 465
