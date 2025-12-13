@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4ff59ea5801f742a8494d61c799ea9b6ad56a6403cc0be20a13c1581060c6ca1
-size 471
+fileFormatVersion: 2
+guid: 4e10276c0d50e804e96c8e0c88e88ba5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 167010
+  packageName: FREE Slavic Medieval Environment Town Interior and exterior
+  packageVersion: 1.6
+  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Fence/rockDesk/EA03_Fence_rockDesk_End_01a_PRE.prefab
+  uploadId: 832988

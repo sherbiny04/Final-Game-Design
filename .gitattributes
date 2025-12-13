@@ -1,0 +1,11 @@
+"Final Game Development/Assets/**/*.unity" filter=lfs diff=lfs merge=lfs -text
+"Final Game Development/Assets/**/*.prefab" filter=lfs diff=lfs merge=lfs -text
+"Final Game Development/Assets/**/*.fbx" filter=lfs diff=lfs merge=lfs -text
+"Final Game Development/Assets/**/*.png" filter=lfs diff=lfs merge=lfs -text
+"Final Game Development/Assets/**/*.jpg" filter=lfs diff=lfs merge=lfs -text
+"Final Game Development/Assets/**/*.jpeg" filter=lfs diff=lfs merge=lfs -text
+"Final Game Development/Assets/**/*.tga" filter=lfs diff=lfs merge=lfs -text
+"Final Game Development/Assets/**/*.psd" filter=lfs diff=lfs merge=lfs -text
+"Final Game Development/Assets/**/*.mp3" filter=lfs diff=lfs merge=lfs -text
+"Final Game Development/Assets/**/*.wav" filter=lfs diff=lfs merge=lfs -text
+"Final Game Development/Assets/**/*.exr" filter=lfs diff=lfs merge=lfs -text

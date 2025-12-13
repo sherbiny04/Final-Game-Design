@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f8ced385c519405b3fd419dc3ca65255dc243519f596b0dbea0d15a6722c4991
-size 402
+fileFormatVersion: 2
+guid: 050b820fbbf13804cabcc5980caed5ea
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 167010
+  packageName: FREE Slavic Medieval Environment Town Interior and exterior
+  packageVersion: 1.6
+  assetPath: Assets/EmaceArt/Slavic World Free/URP_Support/URP Info.txt
+  uploadId: 832988

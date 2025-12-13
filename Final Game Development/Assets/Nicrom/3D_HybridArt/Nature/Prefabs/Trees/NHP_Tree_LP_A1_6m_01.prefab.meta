@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:91cd31a134bd6a6e904945d2125bf3ecd4736a0882903b0bd5cf8d3a89e8aee2
-size 378
+fileFormatVersion: 2
+guid: dc6e087a17b42d04ea13e247f2a56a84
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Prefabs/Trees/NHP_Tree_LP_A1_6m_01.prefab
+  uploadId: 763345

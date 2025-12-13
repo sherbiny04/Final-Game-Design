@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d9cb1b57389ea5c358ae039457e6a7f1f35be1e28e851cf64a7508b0dca2ee6c
-size 431
+fileFormatVersion: 2
+guid: 418e2421d73e25d4cae49958115aafea
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 167010
+  packageName: FREE Slavic Medieval Environment Town Interior and exterior
+  packageVersion: 1.6
+  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Nature/Plant/EA03_Nature_SweetFlag_01e_PRE.prefab
+  uploadId: 832988

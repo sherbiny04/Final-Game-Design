@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a258cd6abac12ebee1b2726626deb1cba32e6b3669ec6ae7c34de279a19b2714
-size 426
+fileFormatVersion: 2
+guid: a1c1410a347f3d249b7ab47b4dc821eb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Demo/Scenes/TerrainsData/TerrainData_Sandbox_01a.asset
+  uploadId: 763345

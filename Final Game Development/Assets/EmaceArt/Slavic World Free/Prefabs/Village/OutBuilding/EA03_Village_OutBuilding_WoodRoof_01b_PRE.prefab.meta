@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:64bb1c60d2b71a08b0f31115922a6a2d1fc3c070aa0898291c4ad046e4929ba1
-size 486
+fileFormatVersion: 2
+guid: a5137eb5b70ccf847baddb5765b278a4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 167010
+  packageName: FREE Slavic Medieval Environment Town Interior and exterior
+  packageVersion: 1.6
+  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Village/OutBuilding/EA03_Village_OutBuilding_WoodRoof_01b_PRE.prefab
+  uploadId: 832988

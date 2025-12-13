@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:784d1221f9e63ba33a24ad5a89dee060fef4faa0882f8e102c6f18bda77c5fed
-size 429
+fileFormatVersion: 2
+guid: f83cda67ebae7be48894e44b04c74c1e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Assets/Materials/Flowers/NHP_FlowerWithStem_B1_H70cm_a.mat
+  uploadId: 763345

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5b86691185a97d8c8338bb02564837a00b715bc3339c111dfbd06e0f575acbd5
-size 400
+fileFormatVersion: 2
+guid: bbdc928747ecaa54c9870a800d63e254
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Prefabs/Flowers/Stylised/NHP_Flower_Cluster_B1_H70cm_02a.prefab
+  uploadId: 763345

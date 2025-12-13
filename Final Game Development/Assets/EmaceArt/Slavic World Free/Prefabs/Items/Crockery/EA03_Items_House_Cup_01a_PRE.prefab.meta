@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:85214315a350c618e26322e8555b4d46d4ebe6b7470a838dce59bc816eee7ce8
-size 468
+fileFormatVersion: 2
+guid: 577f3886dcc589649a230e4523de4d66
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 167010
+  packageName: FREE Slavic Medieval Environment Town Interior and exterior
+  packageVersion: 1.6
+  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Items/Crockery/EA03_Items_House_Cup_01a_PRE.prefab
+  uploadId: 832988

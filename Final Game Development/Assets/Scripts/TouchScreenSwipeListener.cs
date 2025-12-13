@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a05e6cfedf27a64205943ea24d3b0ea2d9a5c964835465fa46c1fa9a9e5739a9
-size 1116
+using UnityEngine.InputSystem.Controls;
+using UnityEngine.InputSystem;
+using UnityEngine;
+
+public class SwipeListener : MonoBehaviour
+{
+    private Vector2 startPosition;
+    private PlayerInputActions _playerInputActions;
+
+    private void OnEnable()
+    {
+      //  _playerInputActions.TouchControls.started += OnTouchStart;
+      //  TouchControls.touchEnded.ended += OnTouchEnd;
+    }
+
+    private void OnDisable()
+    {
+       // TouchControls.touchStarted.started -= OnTouchStart;
+        //TouchControls.touchEnded.ended -= OnTouchEnd;
+    }
+
+    private void OnTouchStart(InputAction.CallbackContext context)
+    {
+        startPosition = context.ReadValue<Vector2>();
+    }
+
+    private void OnTouchEnd(InputAction.CallbackContext context)
+    {
+        Vector2 endPosition = context.ReadValue<Vector2>();
+        Vector2 swipe = endPosition - startPosition;
+
+        if (swipe.x < -minSwipeDistance)
+        {
+            // Trigger your button action
+            Debug.Log("Left swipe detected!");
+        }
+    }
+
+    // Adjust these values based on your needs
+    private float minSwipeDistance = 50f;
+}

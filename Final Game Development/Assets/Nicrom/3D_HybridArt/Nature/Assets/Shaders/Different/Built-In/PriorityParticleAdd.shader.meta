@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7a41777598903d90c665d18c0ca859f5bd3a6cf6c59c9a78997a1931b1959282
-size 447
+fileFormatVersion: 2
+guid: d53dd62db9f78984aa14f7aeb9393453
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Assets/Shaders/Different/Built-In/PriorityParticleAdd.shader
+  uploadId: 763345

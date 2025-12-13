@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:848de21e41e3d88fc2738d216a421968c12c2370d185374e89cccc100327c86b
-size 384
+fileFormatVersion: 2
+guid: a01bbb88fd9cbed4895e3c19e0abc24f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Prefabs/Props/TreeTrunks/NHP_Trunk_A1_03.prefab
+  uploadId: 763345

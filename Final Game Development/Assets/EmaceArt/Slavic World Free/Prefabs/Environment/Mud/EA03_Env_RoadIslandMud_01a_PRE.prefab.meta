@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0f2a8f821eb8241608a0ecb9b9065229a937e94dd445e8171cc4e5fd334ec3eb
-size 435
+fileFormatVersion: 2
+guid: fbd8aa4932a99c449b8108488bfa2baa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 167010
+  packageName: FREE Slavic Medieval Environment Town Interior and exterior
+  packageVersion: 1.6
+  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Environment/Mud/EA03_Env_RoadIslandMud_01a_PRE.prefab
+  uploadId: 832988

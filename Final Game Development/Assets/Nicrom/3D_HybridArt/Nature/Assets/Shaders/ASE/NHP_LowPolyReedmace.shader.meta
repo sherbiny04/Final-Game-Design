@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d09cc9f2252465777fca254d29c68ba67cfedd3ddd5421365b3f5b47199b6280
-size 432
+fileFormatVersion: 2
+guid: 413e53531c619e94fadbc4100e90f267
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Assets/Shaders/ASE/NHP_LowPolyReedmace.shader
+  uploadId: 763345

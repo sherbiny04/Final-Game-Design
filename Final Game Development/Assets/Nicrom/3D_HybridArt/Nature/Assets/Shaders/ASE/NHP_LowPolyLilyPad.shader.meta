@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d8859b231debc69116ae6dcb08c662f0c0854b4f4223ab1080b90d76e4085f26
-size 431
+fileFormatVersion: 2
+guid: 83e6ea01592290a47a01db8a9af2efd8
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Assets/Shaders/ASE/NHP_LowPolyLilyPad.shader
+  uploadId: 763345

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:371d657dd8604af9236c8b389c6afc3aa61c8e1908dd98c64bf514df4ed4015e
-size 395
+fileFormatVersion: 2
+guid: 98e0920bbdaeaf046b4c1e73e671eebf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Prefabs/Props/Rocks/Boulders/NHP_Rock_Boulder_A2_02.prefab
+  uploadId: 763345

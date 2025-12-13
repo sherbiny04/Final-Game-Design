@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4998080d1ef164a4aeab0005088da69f0296fd09f0d3fb4d9f16df29ba3b8eed
-size 377
+fileFormatVersion: 2
+guid: c4ef46bb14201334fa9a343e0259957a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Prefabs/VFX/NHP_VFX_Butteflies_02.prefab
+  uploadId: 763345

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:db3774fc34f294a3e66ed4afb8fa6692d085263928adc49f127e748bf0351cda
-size 462
+fileFormatVersion: 2
+guid: 9a34b8623fe7e914c806ae497124e232
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 167010
+  packageName: FREE Slavic Medieval Environment Town Interior and exterior
+  packageVersion: 1.6
+  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Fence/Plank2/EA03_Fence_Plank_02d_PRE.prefab
+  uploadId: 832988

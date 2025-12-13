@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c104be98cb03dab713c43342bb1c535b7740ec1cbf50b33aeb78d6f2631bef85
-size 441
+fileFormatVersion: 2
+guid: 8c8bf5c0a7e241b41b44474ffa773cd4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Demo/Scenes/LightingSettings/NHP_LightingSettings.lighting
+  uploadId: 763345

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:51400664693db6668cf5754b93069f2e1ab085e4f8f7e6364f89d623d1104dbe
-size 375
+fileFormatVersion: 2
+guid: 7d421021d2ee00c4db22b912621ec6be
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Prefabs/VFX/NHP_Butterfly_A1_01.prefab
+  uploadId: 763345

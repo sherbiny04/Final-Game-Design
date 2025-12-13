@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f25e964a4c5f24ba170720a6a9220527948e95434d9bb76bdc153f23db6e2025
-size 596
+using UnityEngine;
+
+public class CoinBehaviour : MonoBehaviour
+{
+    private Vector3 _collectedCoinLocation = new Vector3(0, -5, 0);
+
+    private bool _isCollected = false;
+
+    private void OnEnable()
+    {
+        _isCollected = false;
+    }
+    public void RelocateToCollectedCoinLocation()
+    {
+        _isCollected= true;
+        //when coin is collected by the player, it just changes transform first, after it leaves the map it goes back to the pool
+        transform.position = _collectedCoinLocation;
+    }
+
+    public bool IsCoinCollected()
+    {
+        return _isCollected;
+    }
+
+}

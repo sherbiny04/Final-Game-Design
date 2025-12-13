@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:805bbafc1b021e14e79af1f9d0b1c39db56243db7063418ee45132638d9c77be
-size 427
+fileFormatVersion: 2
+guid: 868e0aee227f98d4a9898e5be91652cb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 167010
+  packageName: FREE Slavic Medieval Environment Town Interior and exterior
+  packageVersion: 1.6
+  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Nature/Bushes/EA03_Nature_Bush_02b_PRE.prefab
+  uploadId: 832988

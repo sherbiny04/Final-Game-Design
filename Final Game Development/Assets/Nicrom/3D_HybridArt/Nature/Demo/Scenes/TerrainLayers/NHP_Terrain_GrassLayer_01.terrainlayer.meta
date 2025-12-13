@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:090922e6211e0dad666bc09550101364d5909b72e3365516f06a2427149dddcc
-size 447
+fileFormatVersion: 2
+guid: 8a23883c0fb753f40b781f79c12913c7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Demo/Scenes/TerrainLayers/NHP_Terrain_GrassLayer_01.terrainlayer
+  uploadId: 763345

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:461d4b5d9429f7b1c56859b7535d07bfb09b6ec11347a05fd91dd0d0cc5e8534
-size 481
+fileFormatVersion: 2
+guid: feae48108558fbc49aa10a5c915abd98
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 167010
+  packageName: FREE Slavic Medieval Environment Town Interior and exterior
+  packageVersion: 1.6
+  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Environment/Rock/EA03_Environment_Rock_Mini_Head_01a_PRE.prefab
+  uploadId: 832988

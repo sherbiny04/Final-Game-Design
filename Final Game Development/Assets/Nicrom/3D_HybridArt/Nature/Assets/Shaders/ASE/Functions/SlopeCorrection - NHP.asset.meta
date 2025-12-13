@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d0610af6fc8b9c1c5bacbf02cc56ac4d5dbc67bba0b953376e8e87c5da7014ac
-size 432
+fileFormatVersion: 2
+guid: af38de3ca0adf3c4ba9b6a3dd482959e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Assets/Shaders/ASE/Functions/SlopeCorrection
+    - NHP.asset
+  uploadId: 763345

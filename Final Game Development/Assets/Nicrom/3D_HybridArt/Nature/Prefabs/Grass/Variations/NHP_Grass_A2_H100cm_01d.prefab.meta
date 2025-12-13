@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2c106e89acee349fd549967b359ed86382e9b64a606c1d863cb55d26ac9b876c
-size 392
+fileFormatVersion: 2
+guid: 3a0ed9f665dbb6f43a95c1844a4093cd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Prefabs/Grass/Variations/NHP_Grass_A2_H100cm_01d.prefab
+  uploadId: 763345

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2a0d4f2897b3381773248d7096b0f275a16de7a2ddc0b0c53204be07ac1273bc
-size 393
+fileFormatVersion: 2
+guid: cc6563d0aa4029447b7fe0f71d3c9964
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Prefabs/Flowers/LowPoly/NHP_Flower_LP_A1_H70cm_03.prefab
+  uploadId: 763345

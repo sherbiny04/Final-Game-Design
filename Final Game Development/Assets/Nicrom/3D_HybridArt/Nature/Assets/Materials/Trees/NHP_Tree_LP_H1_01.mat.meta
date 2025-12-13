@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:19f19aae66cc0d363aaf927d427c42e4c71cf57479b9cee8ab3f05610a6277e1
-size 415
+fileFormatVersion: 2
+guid: 8862fc18f13a63f47a7b0ede0efe1d34
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Assets/Materials/Trees/NHP_Tree_LP_H1_01.mat
+  uploadId: 763345

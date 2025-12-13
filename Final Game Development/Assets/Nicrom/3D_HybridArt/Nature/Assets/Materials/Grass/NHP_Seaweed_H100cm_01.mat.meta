@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e0927d46d24b7c1a3dade40845f9ca795123b588fed801f287425b3d24167c1b
-size 419
+fileFormatVersion: 2
+guid: 36e05836265825c4e9506050ee80d70b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Assets/Materials/Grass/NHP_Seaweed_H100cm_01.mat
+  uploadId: 763345

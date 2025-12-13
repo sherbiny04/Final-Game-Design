@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:742545a37cc0bedd2feb2fca74ec48c9082466288fb59715f67daa84d6bb65cc
-size 470
+fileFormatVersion: 2
+guid: 9890d8d383f3c3c46ba75093f437b15e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 167010
+  packageName: FREE Slavic Medieval Environment Town Interior and exterior
+  packageVersion: 1.6
+  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Items/House/EA03_Items_House_Firewood_01a_PRE.prefab
+  uploadId: 832988

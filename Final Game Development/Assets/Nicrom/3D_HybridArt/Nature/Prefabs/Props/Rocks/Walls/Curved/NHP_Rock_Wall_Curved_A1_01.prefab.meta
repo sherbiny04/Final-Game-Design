@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6fefe26ed60aa92a5c99af34d0c64af4e11b703286771c68e364889d8e9d3a32
-size 403
+fileFormatVersion: 2
+guid: fb58f2d58215c994d8b083d4cd5b41e0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Prefabs/Props/Rocks/Walls/Curved/NHP_Rock_Wall_Curved_A1_01.prefab
+  uploadId: 763345

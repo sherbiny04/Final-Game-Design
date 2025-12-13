@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d44db34483f4641ed369293946fc6427816c2170e6e3fa28dd9a1a90161c7da0
-size 387
+fileFormatVersion: 2
+guid: 18d117af8212d6b4e88f104c695787ec
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Prefabs/Plants/NHP_Reedmace_LP_A1_H140cm_02.prefab
+  uploadId: 763345

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7859c14872d5707b8af5d005285f932e75a541e20b8a8d66b800265a45f6a9f7
-size 401
+fileFormatVersion: 2
+guid: 368e55b1f3c12804e81339dd0a78196c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Assets/Materials/NHP_Water.mat
+  uploadId: 763345

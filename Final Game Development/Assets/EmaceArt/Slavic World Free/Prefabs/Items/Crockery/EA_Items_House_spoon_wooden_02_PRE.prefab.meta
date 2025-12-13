@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:996eb4eb6384c161cfacbbe006b58e9690b4900c9a1cad7ed9ed78ee12edfa3c
-size 438
+fileFormatVersion: 2
+guid: f8868d156d26b1d49b08d99099e76ddc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 167010
+  packageName: FREE Slavic Medieval Environment Town Interior and exterior
+  packageVersion: 1.6
+  assetPath: Assets/EmaceArt/Slavic World Free/Prefabs/Items/Crockery/EA_Items_House_spoon_wooden_02_PRE.prefab
+  uploadId: 832988

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:12057c9ae20d03f010bbe4a312ecfc7c49067d2c9ed59a84446ec7a90150e4b0
-size 446
+fileFormatVersion: 2
+guid: 3c806f694b9022a4e828d938b702cb5b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Demo/Scripts/Quit.cs
+  uploadId: 763345

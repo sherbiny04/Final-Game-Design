@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:249a03bec1e38d0ba2173f317613469f57f9997905dad3a48f1ef5f02dd94fcd
-size 416
+fileFormatVersion: 2
+guid: 2e31588f0377d764f9b9e2f53ccffd95
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Assets/Materials/Plants/NHP_LP_LilyPad_01.mat
+  uploadId: 763345

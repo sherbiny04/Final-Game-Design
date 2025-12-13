@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aad1494d6144e50799b997c3c18be10d90f17f1133d15a58d48fdcea44705a1e
-size 429
+fileFormatVersion: 2
+guid: b90648f17dcc4bc449d46e8cf04564ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Assets/Shaders/ASE/Functions/RotationAxis
+    - NHP.asset
+  uploadId: 763345

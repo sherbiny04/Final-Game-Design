@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7045294d8371ce516ccd4a61f35d7ded3d55c6933f13f5115bef256aac8aafcb
-size 502
+fileFormatVersion: 2
+guid: 42ac02e82affca748a06399a54b0c568
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181109
+  packageName: Nature - Hybrid Pack
+  packageVersion: 1.1.4
+  assetPath: Assets/Nicrom/3D_HybridArt/Nature/Assets/Scripts/Editor/MaterialInspectors/LowPolyLilyPad_MaterialInspector.cs
+  uploadId: 763345
